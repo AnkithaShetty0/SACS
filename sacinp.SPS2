@@ -1,0 +1,96 @@
+LDOPT       NF+Z1.0280007.850000 -25.000  25.000GLOBMN                NPNP      
+OPTIONS      MN       SDUB   9 9   DC  C      PT          PT                    
+SECT
+SECT SH12X10   BOX                               12.0001.00012.0001.000
+SECT PIPE      TUB                               5.000 0.500
+SECT HM58X30   WF                                50.0002.500150.001.600
+SECT HN45X20   WF                                20.0001.40045.0000.900
+SECT L75X6     ANG                               7.500 7.5000.600
+SECT SH10X6    BOX                               10.0000.63010.0000.630
+SECT PG900     WF                                30.0001.60090.0001.200
+SECT PG1500    WF                                50.0002.500150.001.600
+SECT PG400     WF                                20.0001.20040.0001.200
+GRUP
+GRUP SB  PG900                20.007.72224.80 1    1.001.00           7.8490    
+GRUP PB  PG1500               20.007.72224.80 1    1.001.00           7.8490    
+GRUP PIP PIPE                 20.007.72224.80 1    1.001.00     0.500 7.8490    
+GRUP S01 SH10X6               20.007.72224.80 1    1.001.00           7.8490    
+GRUP L01 L75X6                20.007.72224.80 1    1.001.00           7.8490    
+GRUP TB  PG400                20.007.72224.80 1    1.001.00           7.8490    
+MEMBER
+MEMBER1A133A134 PIP                           L
+MEMBER OFFSETS                           -2.200-1.000            -1.000
+MEMBER A128A132 S01                           L    .442.442
+MEMBER1A132A127 S01                           L    .442.442
+MEMBER OFFSETS                                             -5.000
+MEMBER A131A133 L01                180.00     L    .818.818
+MEMBER1A133A129 L01                180.00     L    .818.818
+MEMBER OFFSETS                                        5.000
+MEMBER A123A127 S01                           L    1.721.72
+MEMBER A127A129 S01                           L    1.721.72
+MEMBER A129A002 S01                           L    1.721.72
+MEMBER1A005A003 SB                            L    2.542.542.542
+MEMBER OFFSETS                                 -45.00            -45.00
+MEMBER1A004A001 PB                            L    2.542.542.542
+MEMBER OFFSETS                                 -75.00            -75.00
+MEMBER1A004A005 PB                            L    7.797.797.790
+MEMBER OFFSETS                                 -75.00            -75.00
+MEMBER1A003A001 TB                            L    7.797.797.790
+MEMBER OFFSETS                                 -20.00            -20.00
+MEMBER1A135A132 PIP
+MEMBER OFFSETS                                                    5.000
+PGRUP
+PGRUP PL1 0.8000I20.000 0.30024.800                                     7.8490  
+PLATE
+PLATE A001 A003A002A005    PL1            0
+PLATE A002 A003A001A002    PL1            0
+PLATE A003 A002A001A004    PL1            0
+PLATE A004 A002A004A005    PL1            0
+JOINT
+JOINT A001   0.000  0.000  0.000                      FIXED
+JOINT A003  -7.790  0.000  0.000                      FIXED
+JOINT A004   0.000 -2.542  0.000                      FIXED
+JOINT A005  -7.790 -2.542  0.000                      FIXED
+JOINT A123  -6.540 -2.197  0.860
+JOINT A127  -6.540 -2.197  0.760
+JOINT A128  -6.540 -2.468  0.760
+JOINT A129  -6.540 -2.197  0.660
+JOINT A131  -6.081 -2.197  0.660
+JOINT A132  -6.540 -2.401  0.760
+JOINT A133  -6.176 -2.197  0.660
+JOINT A134  -6.176 -2.284  0.660
+JOINT A135  -6.540 -2.401  0.875
+JOINT A002  -6.540 -2.197  0.000
+DUMMY PIPESHOE                                                                  
+KEEP   A133 A132                                                            
+DELETE A135 A134
+WTSTR DL  
+LOAD
+LOADCN L01                                                                      
+INCWGT  DL  
+ACCEL                  1.00000
+LOADCN L02                                                                      
+LOAD   A135     0.01600                                     GLOB JOIN   FX
+LOAD   A134     0.01600                                     GLOB JOIN   FX
+LOADCN L03                                                                      
+LOAD   A135            0.01600                              GLOB JOIN   FY
+LOAD   A134            0.01600                              GLOB JOIN   FY
+LOADCN L04                                                                      
+LOAD   A135                   -0.0800                       GLOB JOIN   FZ
+LOAD   A134                   -0.0800                       GLOB JOIN   FZ
+LCOMB
+LCOMB 104  L01 1.1000L02 1.0000L03 -1.000L04 1.0000                    
+LCOMB 101  L01 1.1000L02 1.0000L03 1.0000L04 1.0000                    
+LCOMB 102  L01 1.1000L02 -1.000L03 1.0000L04 1.0000                    
+LCOMB 103  L01 1.1000L02 -1.000L03 -1.000L04 1.0000                    
+LCOMB 105  L01 1.1000L02 1.0000L03 1.0000L04 -1.000                    
+LCOMB 106  L01 1.1000L02 -1.000L03 1.0000L04 -1.000                    
+LCOMB 107  L01 1.1000L02 -1.000L03 -1.000L04 -1.000                    
+LCOMB 108  L01 1.1000L02 1.0000L03 -1.000L04 -1.000                    
+END
+ **PHY1**TA128-A127 THROA128-A132  MEMA132-A127  MEM
+ **PHY1**TA131-A129 THROA131-A133  MEMA133-A129  MEM
+ **PHY1**TA123-A122 THROA123-A127  MEMA127-A129  MEMA129-A002  MEM
+ **JNCV** 0 0 0 0 0 1 0 0
+ **GCOL** PIPM128 255 0   
+END

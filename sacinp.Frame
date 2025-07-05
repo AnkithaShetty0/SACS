@@ -1,0 +1,347 @@
+LDOPT       NF+Z1.0280007.850000                GLOBMN                NPNP                                              
+OPTIONS      MN       SDUB   9 9   DC  C      PT          PT                                                            
+SECT                                                                                                                    
+SECT SLING     TUB                               5.000 0.500                                                            
+SECT O168.3A   TUB                               16.8300.710                                                            
+GRUP                                                                                                                    
+GRUP BM  457B60               200.00.08034.50 1    1.001.00           7.8500                                            
+GRUP CO  305C97               20.000.08034.50 1    1.001.00           7.8500                                            
+GRUP BR  O168.3A              200.00.08034.50 1    1.001.00     0.500 7.8500                                            
+GRUP SLG SLING                200.00.08034.50 1    1.001.00     0.500 7.8490                                            
+MEMBER                                                                                                                  
+MEMBER A024A023 BM                            L    8.00.8200.820                                                        
+MEMBER A030A029 BM                            L    8.00.8200.820                                                        
+MEMBER A019A024 BM                            L    5.00.9200.920                                                        
+MEMBER A022A029 BM                            L    5.00.9200.920                                                        
+MEMBER A009A023 BM                            L    5.005.005.000                                                        
+MEMBER A023A031 BM                            L    2.752.752.750                                                        
+MEMBER A031A035 BM                            L    4.754.754.750                                                        
+MEMBER A014A030 BM                            L    5.005.005.000                                                        
+MEMBER A030A034 BM                            L    2.752.752.750                                                        
+MEMBER A034A037 BM                            L    4.754.754.750                                                        
+MEMBER A010A015 BM                            L    5.001.821.820                                                        
+MEMBER A015A019 BM                            L    5.002.262.260                                                        
+MEMBER A013A018 BM                            L    5.001.821.820                                                        
+MEMBER A018A022 BM                            L    5.002.262.260                                                        
+MEMBER A011A016 BM                            L    1.821.821.820                                                        
+MEMBER A012A017 BM                            L    1.821.821.820                                                        
+MEMBER A011A012 BM                            L    8.002.122.120                                                        
+MEMBER A012A013 BM                            L    8.002.122.120                                                        
+MEMBER A013A014 BM                            L    8.00.8200.820                                                        
+MEMBER A009A010 BM                            L    8.00.8200.820                                                        
+MEMBER A010A011 BM                            L    8.002.122.120                                                        
+MEMBER A015A016 BM                            L    6.362.122.120                                                        
+MEMBER A016A017 BM                            L    6.362.122.120                                                        
+MEMBER A017A018 BM                            L    6.362.122.120                                                        
+MEMBER A020A026 BM                            L    .920.9200.920                                                        
+MEMBER A021A027 BM                            L    .920.9200.920                                                        
+MEMBER A019A020 BM                            L    6.362.122.120                                                        
+MEMBER A020A021 BM                            L    6.362.122.120                                                        
+MEMBER A021A022 BM                            L    6.362.122.120                                                        
+MEMBER A027A026 BM                            L    8.002.122.120                                                        
+MEMBER A025A032 BM                            L    2.752.752.750                                                        
+MEMBER A028A033 BM                            L    2.752.752.750                                                        
+MEMBER A033A036 BM                            L    4.754.754.750                                                        
+MEMBER A032A031 BM                            L    8.001.601.600                                                        
+MEMBER A034A033 BM                            L    8.001.601.600                                                        
+MEMBER A033A032 BM                            L    8.004.804.800                                                        
+MEMBER A037A036 BM                            L    8.001.601.600                                                        
+MEMBER A036A035 BM                            L    8.006.406.400                                                        
+MEMBER A035A007 CO                            L    3.503.503.500                                                        
+MEMBER A009A001 CO                            L    3.503.503.500                                                        
+MEMBER A023A003 CO                            L    3.503.503.500                                                        
+MEMBER A031A005 CO                            L    3.503.503.500                                                        
+MEMBER A014A002 CO                            L    3.503.503.500                                                        
+MEMBER A030A004 CO                            L    3.503.503.500                                                        
+MEMBER A034A006 CO                            L    3.503.503.500                                                        
+MEMBER A037A008 CO                            L    3.503.503.500                                                        
+MEMBER A023A058 BR                            L    4.452.22                                                             
+MEMBER A058A005 BR                            L    4.452.22                                                             
+MEMBER A003A058 BR                            L    2.222.22                                                             
+MEMBER A058A031 BR                            L    2.222.22                                                             
+MEMBER A030A060 BR                            L    4.452.22                                                             
+MEMBER A006A060 BR                            L    4.452.22                                                             
+MEMBER A004A060 BR                            L    2.222.22                                                             
+MEMBER A034A060 BR                            L    2.222.22                                                             
+MEMBER A045A050 BM                            L    2.752.752.750                                                        
+MEMBER A049A051 BM                            L    2.752.752.750                                                        
+MEMBER A054A035 CO                            L    3.803.803.800                                                        
+MEMBER A038A009 CO                            L    3.803.803.800                                                        
+MEMBER A042A014 CO                            L    3.803.803.800                                                        
+MEMBER A055A037 CO                            L    3.803.803.800                                                        
+MEMBER A055A054 BM                            L    8.008.008.000                                                        
+MEMBER A051A050 BM                            L    8.008.008.000                                                        
+MEMBER A042A044 BM                            L    5.002.502.500                                                        
+MEMBER A044A049 BM                            L    5.002.502.500                                                        
+MEMBER A038A043 BM                            L    5.002.502.500                                                        
+MEMBER A043A045 BM                            L    5.002.502.500                                                        
+MEMBER A051A053 BM                            L    4.752.372.375                                                        
+MEMBER A053A055 BM                            L    4.752.372.375                                                        
+MEMBER A050A052 BM                            L    4.752.372.375                                                        
+MEMBER A052A054 BM                            L    4.752.372.375                                                        
+MEMBER A044A043 BM                            L    8.008.008.000                                                        
+MEMBER A053A052 BM                            L    8.008.008.000                                                        
+MEMBER A045A023 CO                            L    3.803.803.800                                                        
+MEMBER A050A031 CO                            L    3.803.803.800                                                        
+MEMBER A051A034 CO                            L    3.803.803.800                                                        
+MEMBER A049A030 CO                            L    3.803.803.800                                                        
+MEMBER A049A059 BR                            L    4.692.34                                                             
+MEMBER A034A059 BR                            L    4.692.34                                                             
+MEMBER A051A059 BR                            L    2.342.34                                                             
+MEMBER A030A059 BR                            L    2.342.34                                                             
+MEMBER A045A057 BR                            L    4.692.34                                                             
+MEMBER A031A057 BR                            L    4.692.34                                                             
+MEMBER A050A057 BR                            L    2.342.34                                                             
+MEMBER A023A057 BR                            L    2.342.34                                                             
+MEMBER A038A039 BM                            L    8.008.008.000                                                        
+MEMBER A039A040 BM                            L    8.008.008.000                                                        
+MEMBER A040A041 BM                            L    8.008.008.000                                                        
+MEMBER A041A042 BM                            L    8.008.008.000                                                        
+MEMBER A049A048 BM                            L    8.008.008.000                                                        
+MEMBER A048A047 BM                            L    8.008.008.000                                                        
+MEMBER A047A046 BM                            L    8.008.008.000                                                        
+MEMBER A046A045 BM                            L    8.008.008.000                                                        
+MEMBER A039A056 SLG                                                                                                     
+MEMBER A040A056 SLG                                                                                                     
+MEMBER A041A056 SLG                                                                                                     
+MEMBER A046A056 SLG                                                                                                     
+MEMBER A047A056 SLG                                                                                                     
+MEMBER A048A056 SLG                                                                                                     
+MEMBER A026A025 BM                            L    8.001.341.340                                                        
+MEMBER A025A024 BM                            L    8.00.7800.780                                                        
+MEMBER A029A028 BM                            L    8.00.7800.780                                                        
+MEMBER A028A027 BM                            L    8.001.341.340                                                        
+SPAN                                                                                                                    
+SPAN C1      C  A009 A001                                                                                               
+SPAN C2      C  A014 A002                                                                                               
+SPAN C3      C  A038 A009                                                                                               
+SPAN C4      C  A042 A014                                                                                               
+SPAN C5      C  A023 A003                                                                                               
+SPAN C6      C  A031 A005                                                                                               
+SPAN C7      C  A030 A004                                                                                               
+SPAN C8      C  A034 A006                                                                                               
+SPAN C9      C  A045 A023                                                                                               
+SPAN C10     C  A050 A031                                                                                               
+SPAN C11     C  A049 A030                                                                                               
+SPAN C12     C  A051 A034                                                                                               
+SPAN C13     C  A035 A007                                                                                               
+SPAN C14     C  A037 A008                                                                                               
+SPAN C15     C  A054 A035                                                                                               
+SPAN C16     C  A055 A037                                                                                               
+JOINT                                                                                                                   
+JOINT A009   0.000  0.000  0.000                                                                                        
+JOINT A035  12.500  0.000  0.000                                                                                        
+JOINT A014   0.000  8.000  0.000                                                                                        
+JOINT A037  12.500  8.000  0.000                                                                                        
+JOINT A031   7.750  0.000  0.000                                                                                        
+JOINT A034   7.750  8.000  0.000                                                                                        
+JOINT A023   5.000  0.000  0.000                                                                                        
+JOINT A030   5.000  8.000  0.000                                                                                        
+JOINT A010   0.000  0.820  0.000                                                                                        
+JOINT A024   5.000  0.820  0.000                                                                                        
+JOINT A013   0.000  7.180  0.000                                                                                        
+JOINT A029   5.000  7.180  0.000                                                                                        
+JOINT A019   4.080  0.820  0.000                                                                                        
+JOINT A022   4.080  7.180  0.000                                                                                        
+JOINT A015   1.820  0.820  0.000                                                                                        
+JOINT A018   1.820  7.180  0.000                                                                                        
+JOINT A011   0.000  2.940  0.000                                                                                        
+JOINT A016   1.820  2.940  0.000                                                                                        
+JOINT A012   0.000  5.060  0.000                                                                                        
+JOINT A017   1.820  5.060  0.000                                                                                        
+JOINT A020   4.080  2.940  0.000                                                                                        
+JOINT A026   5.000  2.940  0.000                                                                                        
+JOINT A021   4.080  5.060  0.000                                                                                        
+JOINT A027   5.000  5.060  0.000                                                                                        
+JOINT A025   5.000  1.600  0.000                                                                                        
+JOINT A028   5.000  6.400  0.000                                                                                        
+JOINT A036  12.500  6.400  0.000                                                                                        
+JOINT A032   7.750  1.600  0.000                                                                                        
+JOINT A033   7.750  6.400  0.000                                                                                        
+JOINT A007  12.500  0.000 -3.500                      FIXED                                                             
+JOINT A005   7.750  0.000 -3.500                      FIXED                                                             
+JOINT A003   5.000  0.000 -3.500                      FIXED                                                             
+JOINT A001   0.000  0.000 -3.500                      FIXED                                                             
+JOINT A008  12.500  8.000 -3.500                      FIXED                                                             
+JOINT A006   7.750  8.000 -3.500                      FIXED                                                             
+JOINT A004   5.000  8.000 -3.500                      FIXED                                                             
+JOINT A002   0.000  8.000 -3.500                      FIXED                                                             
+JOINT A058   6.375  0.000 -1.750                                                                                        
+JOINT A060   6.375  8.000 -1.750                                                                                        
+JOINT A038   0.000  0.000  3.800                                                                                        
+JOINT A054  12.500  0.000  3.800                                                                                        
+JOINT A042   0.000  8.000  3.800                                                                                        
+JOINT A055  12.500  8.000  3.800                                                                                        
+JOINT A050   7.750  0.000  3.800                                                                                        
+JOINT A051   7.750  8.000  3.800                                                                                        
+JOINT A045   5.000  0.000  3.800                                                                                        
+JOINT A049   5.000  8.000  3.800                                                                                        
+JOINT A044   2.500  8.000  3.800                                                                                        
+JOINT A043   2.500  0.000  3.800                                                                                        
+JOINT A053  10.125  8.000  3.800                                                                                        
+JOINT A052  10.125  0.000  3.800                                                                                        
+JOINT A059   6.375  8.000  1.900                                                                                        
+JOINT A057   6.375  0.000  1.900                                                                                        
+JOINT A039   0.000  1.500  3.800                                                                                        
+JOINT A040   0.000  4.500  3.800                                                                                        
+JOINT A041   0.000  6.000  3.800                                                                                        
+JOINT A048   5.000  6.000  3.800                                                                                        
+JOINT A047   5.000  4.500  3.800                                                                                        
+JOINT A046   5.000  1.500  3.800                                                                                        
+JOINT A056   2.500  4.500  8.800                                                                                        
+AREA                                                                                                                    
+AREAPX  29.2              12.50   4.80   0.001.000A035A036A037                F                                         
+AREAPX  15.2              12.50   4.00   3.801.000A054A055                    F                                         
+AREANX  29.2               0.00   4.00   0.001.000A014A013A012A011A010A009    F                                         
+AREANX  15.2               0.00   4.00   3.801.000A042A038                    F                                         
+AREAPY        45.6         6.31   8.00       1.000A037A034A030A014            F                                         
+AREAPY        23.7         6.31   8.00   3.801.000A055A053A051A049A044A042    F                                         
+AREANY        45.6         6.31              1.000A009A023A031A035            F                                         
+AREANY        23.7         6.31   0.00   3.801.000A038A043A045A050A052A054    F                                         
+DUMMY EQUIP                                                                                                             
+KEEP   A046 A047 A048 A041 A040 A039                                                                                    
+DELETE A056                                                                                                             
+SURFID SUF3.5  LX A014 A009 A035   0.152                                                                                
+SURFDR A037 A014 A009 A035                                                                                              
+SURFID SUFROOF LX A042 A038 A054   0.152                                                                                
+SURFDR A055 A042 A038 A054                                                                                              
+WTSTR SLWT                                                                                                              
+WGTMEMDWL A024A023         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A030A029         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A019A024         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A020A026         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A022A029         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A036A035         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A009A023         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A023A031         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A034A033         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A031A035         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A014A030         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A033A032         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A030A034         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A034A037         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A010A015         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A015A019         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A013A018         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A021A027         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A018A022         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A011A016         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A012A017         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A011A012         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A012A013         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A013A014         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A009A010         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A010A011         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A015A016         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A016A017         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A017A018         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A033A036         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A019A020         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A020A021         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A021A022         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A027A026         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A025A032         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A028A033         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A032A031         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A037A036         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A045A050         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A053A055         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A049A051         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A055A054         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A051A050         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A044A049         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A038A043         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A043A045         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A051A053         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A041A042         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A050A052         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A052A054         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A044A043         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A053A052         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A038A039         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A039A040         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A042A044         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A040A041         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A049A048         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A048A047         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A047A046         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A046A045         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A026A025         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A025A024         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A029A028         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+WGTMEMDWL A028A027         0.450         0.4501.001.001.00GLOBUNIF      FLOOR                                           
+SURFWTLIVE  0.750LL1            1.001.001.00SUFROOF                                                                     
+SURFWTLIVE  5.000LL1            1.001.001.00SUF3.5                                                                      
+WGTMEMLIVEA017A018  1.060 50.000              1.001.001.00GLOBCONC      LL2                                             
+WGTMEMLIVEA016A017  1.060 50.000              1.001.001.00GLOBCONC      LL2                                             
+WGTMEMLIVEA015A016  1.060 50.000              1.001.001.00GLOBCONC      LL2                                             
+WGTMEMLIVEA021A022  1.060 50.000              1.001.001.00GLOBCONC      LL2                                             
+WGTMEMLIVEA020A021  1.060 50.000              1.001.001.00GLOBCONC      LL2                                             
+WGTMEMLIVEA019A020  1.060 50.000              1.001.001.00GLOBCONC      LL2                                             
+WGTJT OPRT100.000ZZZ1283 A056                         1.0001.0001.000                                                   
+WTCMB W01  OPRT1.0000DWL 1.0000SLWT1.0000                                                                               
+LOAD                                                                                                                    
+LOADCN WPX                                                                                                              
+WIND                                                                                                                    
+WIND D    10.000                            PX                                                                          
+LOADCN WNX                                                                                                              
+WIND                                                                                                                    
+WIND D    10.000                            NX                                                                          
+LOADCN WPY                                                                                                              
+WIND                                                                                                                    
+WIND D    10.000                            PY                                                                          
+LOADCN WNY                                                                                                              
+WIND                                                                                                                    
+WIND D    10.000                            NY                                                                          
+LOADCN  AX                                                                                                              
+INCWGT  W01                                                                                                             
+ACCEL    -0.1020                                                                                                        
+LOADCN  AY                                                                                                              
+INCWGT  W01                                                                                                             
+ACCEL           -0.1020                                                                                                 
+LOADCN  AZ                                                                                                              
+INCWGT  W01                                                                                                             
+ACCEL                  0.10200                                                                                          
+LOADCNLIVE                                                                                                              
+INCWGT  LIVE                                                                                                            
+ACCEL                  0.10200                                                                                          
+LCOMB                                                                                                                   
+LCOMB D001   AX 0.061  AZ1.0608 WPX0.8920LIVE1.0000                                                                     
+LCOMB D002   AX-0.061  AZ0.9486 WNX0.8920LIVE1.0000                                                                     
+LCOMB D003   AX 0.097  AY-0.187  AZ 1.102 WPX0.8920 WNY0.8920LIVE1.0000                                                 
+LCOMB D004   AX-0.097  AY 0.187  AZ0.8976 WNX0.8920 WPY0.8920LIVE1.0000                                                 
+LCOMB D005   AX 0.097  AY-0.187  AZ0.8976 WPX0.8920 WNY0.8920LIVE1.0000                                                 
+END                                                                                                                     
+ **PHY1**T0012-0011 THROA030-A029  MEMA029-A028  MEMA028-A027  MEMA027-A026  MEM                                        
+ **PHY1**T0012-0011 THROA026-A025  MEMA025-A024  MEMA024-A023  MEM                                                      
+ **PHY1**T0013-0014 THROA010-A015  MEMA015-A019  MEMA019-A024  MEM                                                      
+ **PHY1**T0016-0017 THROA013-A018  MEMA018-A022  MEMA022-A029  MEM                                                      
+ **PHY1**T0003-0004 THROA009-A023  MEMA023-A031  MEMA031-A035  MEM                                                      
+ **PHY1**T0005-0006 THROA014-A030  MEMA030-A034  MEMA034-A037  MEM                                                      
+ **PHY1**T0003-0005 THROA009-A010  MEMA010-A011  MEMA011-A012  MEMA012-A013  MEM                                        
+ **PHY1**T0003-0005 THROA013-A014  MEM                                                                                  
+ **PHY1**T0027-0028 THROA015-A016  MEMA016-A017  MEMA017-A018  MEM                                                      
+ **PHY1**T0019-0020 THROA019-A020  MEMA020-A021  MEMA021-A022  MEM                                                      
+ **PHY1**T0010-0009 THROA034-A033  MEMA033-A032  MEMA032-A031  MEM                                                      
+ **PHY1**T0006-0004 THROA037-A036  MEMA036-A035  MEM                                                                    
+ **PHY1**T0011-0015 THROA023-A058  MEMA058-A005  MEM                                                                    
+ **PHY1**T0018-0009 THROA003-A058  MEMA058-A031  MEM                                                                    
+ **PHY1**T-0012-0023THRXA030-A060  MEMA006-A060  MEM                                                                    
+ **PHY1**S-0024-0010STRXA004-A060  MEMA034-A060  MEM                                                                    
+ **PHY1**X-0029     XBRCT-0012-0023PHYS-0024-0010PHY                                                                    
+ **PHY1**T0049-0054 THROA042-A044  MEMA044-A049  MEM                                                                    
+ **PHY1**T0045-0053 THROA038-A043  MEMA043-A045  MEM                                                                    
+ **PHY1**T0052-0050 THROA051-A053  MEMA053-A055  MEM                                                                    
+ **PHY1**T0051-0047 THROA050-A052  MEMA052-A054  MEM                                                                    
+ **PHY1**T-0054-0010THRXA049-A059  MEMA034-A059  MEM                                                                    
+ **PHY1**S-0052-0012STRXA051-A059  MEMA030-A059  MEM                                                                    
+ **PHY1**X-0059     XBRCT-0054-0010PHYS-0052-0012PHY                                                                    
+ **PHY1**T-0053-0009THRXA045-A057  MEMA031-A057  MEM                                                                    
+ **PHY1**S-0051-0011STRXA050-A057  MEMA023-A057  MEM                                                                    
+ **PHY1**X-0060     XBRCT-0053-0009PHYS-0051-0011PHY                                                                    
+ **PHY1**T0045-0049 THROA038-A039  MEMA039-A040  MEMA040-A041  MEMA041-A042  MEM                                        
+ **PHY1**T0054-0053 THROA049-A048  MEMA048-A047  MEMA047-A046  MEMA046-A045  MEM                                        
+ **MSLF**  uk.sec                                                                                                       
+ **JNCV** 0 0 0 0 0 1 0 0                                                                                               
+ **GCOL** BM M0   128 255 CO M128 255 255 BR M128 64  64                                                                
+END                                                                                                                     
